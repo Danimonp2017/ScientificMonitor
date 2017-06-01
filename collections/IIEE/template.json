@@ -1,0 +1,7 @@
+{
+  "nombre": "Universidad de Los Andes",
+  "estudiantes": 20000,
+  "privada": true,
+  "tasa_empleabilidad": 0.4,
+  "ISO_9001": true
+}

@@ -1,0 +1,21 @@
+{
+  "nombre": "Economía",
+  "estudiantes": 400,
+  "docentes": {
+    "maestría": 0.9,
+    "doctorado": 0.3,
+  },
+  "docentes_planta": 180,
+  "programas": ["Economía, Finanzas, Administración", "Maestría en Economía"],
+  "programas_acreditados": ["Economía","Maestría en Economía"],
+  "grupos_investigación": [
+    {
+      "nombre": "grupo1",
+      "registrado_Colciencias": true
+    }
+    {
+      "nombre": "grupo2",
+      "registrado_Colciencias": false
+    }
+  ]
+}

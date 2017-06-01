@@ -1,5 +1,7 @@
 {
   "nombre": "Colombia",
+  "moneda_local": "COP",
+  "tc_dólar": 2921,
   "población": {
     "2015": 47500000,
     "2016": 47800000,
