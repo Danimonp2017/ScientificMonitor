@@ -1,4 +1,8 @@
 {
+  "id": 1,
+  "id_país": 1,
+  "id_ciudad": 1,
+  "id_IE": 1,
   "nombre": "Economía",
   "estudiantes": 400,
   "docentes": {

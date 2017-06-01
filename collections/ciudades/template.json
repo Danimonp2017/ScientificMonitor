@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "id_país": 1,
+  "nombre": "Bogotá",
+  "población": {
+    "2017": 10000000
+  },
+  "PIB": {
+    "moneda": "COP",
+    "nominal": true,
+    "valores": {
+      "2017": 2000000000
+    }
+  }
+}
