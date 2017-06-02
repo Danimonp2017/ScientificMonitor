@@ -9,5 +9,15 @@
   "ISO_9001": true,
   "patentes": {
     "2017": 20
-  }
+  },
+  "publicaciones": [
+    {
+      "área": "Economía ambiental",
+      "2017": 300
+    },
+    {
+      "área": "Economía del crimen",
+      "2017": 40
+    }
+  ]
 }

@@ -40,6 +40,7 @@ Schema::create('IIEE', function($collection) {
   $collection -> double('tasa_empleabilidad');
   $collection -> boolean('ISO_9001');
   $collection -> json('patentes');
+  $collection -> json('publicaciones');
 });
 
 Schema::create('facultades', function($collection){
