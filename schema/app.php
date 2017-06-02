@@ -19,6 +19,7 @@ Schema::create('países', function($collection) {
   $collection -> json('Gasto_C_T');
   $collection -> json('Gasto_I_D');
   $collection -> json('patentes');
+  $collection -> json('publicaciones');
 });
 
 Schema::create('ciudades', function($collection) {
@@ -38,7 +39,7 @@ Schema::create('IIEE', function($collection) {
   $collection -> string('tipo');
   $collection -> double('tasa_empleabilidad');
   $collection -> boolean('ISO_9001');
-  $collection -> integer('patentes');
+  $collection -> json('patentes');
 });
 
 Schema::create('facultades', function($collection){

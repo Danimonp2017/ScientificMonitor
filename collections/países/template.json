@@ -37,5 +37,15 @@
   },
   "patentes": {
     "2017": 400
-  }
+  },
+  "publicaciones": [
+    {
+      "área": "Economía ambiental",
+      "2017": 300
+    },
+    {
+      "área": "Economía del crimen",
+      "2017": 40
+    }
+  ]
 }
