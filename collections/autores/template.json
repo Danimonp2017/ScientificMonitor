@@ -1,0 +1,17 @@
+{
+  "id": 1,
+  "id_facultad": 1,
+  "id_IE": 1,
+  "id_ciudad": 1,
+  "id_país": 1,
+  "nombre": "John Doe",
+  "área": "Economía del crimen",
+  "publicaciones": [
+    {
+      "id": 1,
+      "nombre": "Artículo 1",
+      "revista": "Revista 1",
+      "id_revista": 1
+    }
+  ]
+}
