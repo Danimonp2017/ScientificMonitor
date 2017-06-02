@@ -61,7 +61,7 @@ Schema::create('facultades', function($collection){
   $collection -> json('grupos_investigación');
 });
 
-Schema::create('facultades', function($collection){
+Schema::create('revistas', function($collection){
   $collection -> integer('id');
   $collection -> integer('id_país');
   $collection -> integer('id_ciudad');
