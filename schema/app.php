@@ -18,6 +18,7 @@ Schema::create('países', function($collection) {
   $collection -> json('PIB');
   $collection -> json('Gasto_C_T');
   $collection -> json('Gasto_I_D');
+  $collection -> json('patentes');
 });
 
 Schema::create('ciudades', function($collection) {
