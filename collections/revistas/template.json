@@ -11,15 +11,5 @@
       "publicaciones_por_edición": 12,
       "ediciones": 4
     }
-  },
-  "autores": [
-    {
-      "nombre": "autor1",
-      "publicaciones": 1
-    },
-    {
-      "nombre": "autor2",
-      "publicaciones": 3
-    }
-  ]
+  }
 }
