@@ -8,6 +8,10 @@ class IE extends Eloquent {
 class Facultad extends Eloquent {
   protected $collection = 'facultades';
 };
+class Revista extends Eloquent {};
+class Autor extends Eloquent {
+  protected $collection = 'autores';
+};
 
 Schema::create('países', function($collection) {
   $collection -> integer('id');
