@@ -56,3 +56,15 @@ Schema::create('facultades', function($collection){
   $collection -> json('programas_acreditados');
   $collection -> json('grupos_investigación');
 });
+
+Schema::create('facultades', function($collection){
+  $collection -> integer('id');
+  $collection -> integer('id_país');
+  $collection -> integer('id_ciudad');
+  $collection -> integer('id_IE');
+  $collection -> integer('id_facultad');
+  $collection -> string('nombre');
+  $collection -> string('área');
+  $collection -> json('publicaciones');
+  $collection -> json('autores');
+});

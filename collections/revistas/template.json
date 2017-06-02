@@ -1,0 +1,25 @@
+{
+  "id": 1,
+  "id_facultad": 1,
+  "id_IE": 1,
+  "id_ciudad": 1,
+  "id_país": 1,
+  "nombre": "Documentos CEDE",
+  "área": "Economía",
+  "publicaciones": {
+    "2017": {
+      "publicaciones_por_edición": 12,
+      "ediciones": 4
+    }
+  },
+  "autores": [
+    {
+      "nombre": "autor1",
+      "publicaciones": 1
+    },
+    {
+      "nombre": "autor2",
+      "publicaciones": 3
+    }
+  ]
+}
