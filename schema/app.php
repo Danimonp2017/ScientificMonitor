@@ -1,5 +1,3 @@
-use Eloquent\Model as Eloquent;
-
 class País extends Eloquent {};
 class Ciudad extends Eloquent {
   protected $collection = 'ciudades';
@@ -39,6 +37,7 @@ Schema::create('IIEE', function($collection) {
   $collection -> string('tipo');
   $collection -> double('tasa_empleabilidad');
   $collection -> boolean('ISO_9001');
+  $collection -> integer('patentes');
 });
 
 Schema::create('facultades', function($collection){

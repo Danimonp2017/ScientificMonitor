@@ -6,5 +6,8 @@
   "estudiantes": 20000,
   "tipo": "privada",
   "tasa_empleabilidad": 0.4,
-  "ISO_9001": true
+  "ISO_9001": true,
+  "patentes": {
+    "2017": 20
+  }
 }
