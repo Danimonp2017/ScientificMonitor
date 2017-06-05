@@ -1,0 +1,28 @@
+﻿Objeto,Variable,Fuente,Comentario,URL
+Países,Moneda local,Banco Central o Wikipedia,,
+Países,Tasa de cambio con el dólar,Banco Central,,
+Países,Población,Entidad estadística nacional (EEN) o WDI del Banco Mundial,Los datos del Banco Mundial no suelen tener el año actual,http://data.worldbank.org/data-catalog/world-development-indicators
+Países,PIB,EEN o WDI del Banco Mundial,Los datos del Banco Mundial no suelen tener el año actual,http://data.worldbank.org/data-catalog/world-development-indicators
+Países,Gasto en ciencia y tecnología,Banco Central o EEN,,
+Países,Gasto en investigación y desarrollo,EEN o WDI del Banco Mundial,Los datos del Banco Mundial no suelen tener el año actual,http://data.worldbank.org/data-catalog/world-development-indicators
+Países,Patentes,EEN o WDI del Banco Mundial,Los datos del Banco Mundial no suelen tener el año actual,http://data.worldbank.org/data-catalog/world-development-indicators
+Países,Publicaciones,,,
+Ciudades,Población,EEN o WDI del Banco Mundial,Los datos del Banco Mundial no suelen tener el año actual,http://data.worldbank.org/data-catalog/world-development-indicators
+Ciudades,PIB,EEN o WDI del Banco Mundial,Los datos del Banco Mundial no suelen tener el año actual,http://data.worldbank.org/data-catalog/world-development-indicators
+IIEE,Estudiantes,Institución Educativa (IE),,
+IIEE,Tipo,IE o Entidad Regulatoria Nacional (ERN),,
+IIEE,Tasa de empleabilidad,IE o ERN,,
+IIEE,ISO 9001,,,
+IIEE,Patentes,"IE, ERN o EEN",,
+IIEE,Publicaciones,IE,,
+Facultades,Estudiantes,IE,,
+Facultades,Docentes de planta,IE,,
+Facultades,Docentes con maestría,IE,,
+Facultades,Docentes con doctorado,IE,,
+Facultades,Programas,IE,,
+Facultades,Programas acreditados,IE o ERN,,
+Facultades,Grupos de investigación,IE o ERN,,
+Revistas,Área ,IE o Revista,,
+Revistas,Publicaciones,IE o Revista,,
+Autores,Área ,IE o Autor,,
+Autores,Publicaciones,IE o Autor,,
