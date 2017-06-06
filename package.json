@@ -17,6 +17,8 @@
     "url": "https://github.com/dsaavedr/ScientificMonitor/issues"
   },
   "homepage": "https://github.com/dsaavedr/ScientificMonitor#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "excel-as-json": "^2.0.1"
   }
 }
