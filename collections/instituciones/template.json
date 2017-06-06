@@ -20,5 +20,15 @@
       "área": "Economía del crimen",
       "2017": 40
     }
+  ],
+  "autores": [
+    {
+      "área": "Economía ambiental",
+      "2017": 1200
+    },
+    {
+      "área": "Economía del crimen",
+      "2017": 1200
+    }
   ]
 }
