@@ -2,6 +2,7 @@
   "id": 1,
   "id_país": 1,
   "id_ciudad": 1,
+  "tipo_institución": "IE",
   "nombre": "Universidad de Los Andes",
   "estudiantes": 20000,
   "tipo": "privada",

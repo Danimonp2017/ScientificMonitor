@@ -2,8 +2,8 @@ class País extends Eloquent {};
 class Ciudad extends Eloquent {
   protected $collection = 'ciudades';
 }
-class IE extends Eloquent {
-  protected $collection = 'IIEE';
+class Institución extends Eloquent {
+  protected $collection = 'instituciones';
 };
 class Facultad extends Eloquent {
   protected $collection = 'facultades';
@@ -34,7 +34,7 @@ Schema::create('ciudades', function($collection) {
   $collection -> json('PIB');
 });
 
-Schema::create('IIEE', function($collection) {
+Schema::create('instituciones', function($collection) {
   $collection -> integer('id');
   $collection -> integer('id_país');
   $collection -> integer('id_ciudad');
