@@ -1,28 +1,28 @@
-﻿Objeto,Variable,Fuente,Comentario,URL
-Países,Moneda local,Banco Central o Wikipedia,,
-Países,Tasa de cambio con el dólar,Banco Central,,
-Países,Población,Entidad estadística nacional (EEN) o WDI del Banco Mundial,Los datos del Banco Mundial no suelen tener el año actual,http://data.worldbank.org/data-catalog/world-development-indicators
-Países,PIB,EEN o WDI del Banco Mundial,Los datos del Banco Mundial no suelen tener el año actual,http://data.worldbank.org/data-catalog/world-development-indicators
-Países,Gasto en ciencia y tecnología,Banco Central o EEN,,
-Países,Gasto en investigación y desarrollo,EEN o WDI del Banco Mundial,Los datos del Banco Mundial no suelen tener el año actual,http://data.worldbank.org/data-catalog/world-development-indicators
-Países,Patentes,EEN o WDI del Banco Mundial,Los datos del Banco Mundial no suelen tener el año actual,http://data.worldbank.org/data-catalog/world-development-indicators
-Países,Publicaciones,,,
-Ciudades,Población,EEN o WDI del Banco Mundial,Los datos del Banco Mundial no suelen tener el año actual,http://data.worldbank.org/data-catalog/world-development-indicators
-Ciudades,PIB,EEN o WDI del Banco Mundial,Los datos del Banco Mundial no suelen tener el año actual,http://data.worldbank.org/data-catalog/world-development-indicators
-IIEE,Estudiantes,Institución Educativa (IE),,
-IIEE,Tipo,IE o Entidad Regulatoria Nacional (ERN),,
-IIEE,Tasa de empleabilidad,IE o ERN,,
-IIEE,ISO 9001,,,
-IIEE,Patentes,"IE, ERN o EEN",,
-IIEE,Publicaciones,IE,,
-Facultades,Estudiantes,IE,,
-Facultades,Docentes de planta,IE,,
-Facultades,Docentes con maestría,IE,,
-Facultades,Docentes con doctorado,IE,,
-Facultades,Programas,IE,,
-Facultades,Programas acreditados,IE o ERN,,
-Facultades,Grupos de investigación,IE o ERN,,
-Revistas,Área ,IE o Revista,,
-Revistas,Publicaciones,IE o Revista,,
-Autores,Área ,IE o Autor,,
-Autores,Publicaciones,IE o Autor,,
+﻿Objeto,Variable,Fuente,Comentario,URL,URL_Colombia
+Países,Moneda local,Banco Central o Wikipedia,,,http://banrep.gov.co
+Países,Tasa de cambio con el dólar,Banco Central,,,http://www.banrep.org/es/trm
+Países,Población,Entidad estadística nacional (EEN) o WDI del Banco Mundial,Los datos del Banco Mundial no suelen tener el año actual,http://data.worldbank.org/data-catalog/world-development-indicators,http://www.dane.gov.co/index.php/en/
+Países,PIB,EEN o WDI del Banco Mundial,Los datos del Banco Mundial no suelen tener el año actual,http://data.worldbank.org/data-catalog/world-development-indicators,http://www.banrep.gov.co/es/pib
+Países,Gasto en ciencia y tecnología,Banco Central o EEN,,,
+Países,Gasto en investigación y desarrollo,EEN o WDI del Banco Mundial,Los datos del Banco Mundial no suelen tener el año actual,http://data.worldbank.org/data-catalog/world-development-indicators,http://datos.bancomundial.org/indicador/GB.XPD.RSDV.GD.ZS?locations=CO
+Países,Patentes,EEN o WDI del Banco Mundial,Los datos del Banco Mundial no suelen tener el año actual,http://data.worldbank.org/data-catalog/world-development-indicators,http://www.sic.gov.co/estadisticas-propiedad-industrial
+Países,Publicaciones,,,,
+Ciudades,Población,EEN o WDI del Banco Mundial,Los datos del Banco Mundial no suelen tener el año actual,http://data.worldbank.org/data-catalog/world-development-indicators,https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/proyecciones-de-poblacion
+Ciudades,PIB,EEN o WDI del Banco Mundial,Los datos del Banco Mundial no suelen tener el año actual,http://data.worldbank.org/data-catalog/world-development-indicators,
+IIEE,Estudiantes,Institución Educativa (IE),,,
+IIEE,Tipo,IE o Entidad Regulatoria Nacional (ERN),,,
+IIEE,Tasa de empleabilidad,IE o ERN,,,
+IIEE,ISO 9001,,,,
+IIEE,Patentes,"IE, ERN o EEN",,,http://www.sic.gov.co/estadisticas-propiedad-industrial
+IIEE,Publicaciones,IE,,,
+Facultades,Estudiantes,IE,,,
+Facultades,Docentes de planta,IE,,,
+Facultades,Docentes con maestría,IE,,,
+Facultades,Docentes con doctorado,IE,,,
+Facultades,Programas,IE,,,
+Facultades,Programas acreditados,IE o ERN,,,
+Facultades,Grupos de investigación,IE o ERN,,,
+Revistas,Área ,IE o Revista,,,
+Revistas,Publicaciones,IE o Revista,,,
+Autores,Área ,IE o Autor,,,
+Autores,Publicaciones,IE o Autor,,,
