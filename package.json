@@ -18,6 +18,5 @@
   },
   "homepage": "https://github.com/dsaavedr/ScientificMonitor#readme",
   "dependencies": {
-    "mongodb": "^2.2.27"
   }
 }
