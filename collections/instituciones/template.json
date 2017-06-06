@@ -3,6 +3,27 @@
   "id_país": 1,
   "id_ciudad": 1,
   "tipo_institución": "IE",
+  "estado": "activo",
+  "tipo_suscripción": "Professional Edition",
+  "FTES": 150,
+  "suscripción": {
+    "fecha_inicio": "04042017",
+    "fecha_fin": "04042018"
+  },
+  "logo": "http://uniandes.edu.co/logo.png",
+  "dirección": "calle XX no. XX-XX, Bogotá, Colombia",
+  "código postal": "111711",
+  "URL": "http://uniandes.edu.co/",
+  "teléfonos": [
+    "+(571)3394949",
+    "+(571)3394999"
+  ],
+  "dir_IPs": [
+    "86.63.47.174",
+    "86.77.18.92",
+    "123.251.15.75",
+    "240.132.18.5"
+  ],
   "nombre": "Universidad de Los Andes",
   "estudiantes": 20000,
   "tipo": "privada",
