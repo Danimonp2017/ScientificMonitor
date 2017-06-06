@@ -3,6 +3,7 @@
   "id_país": 1,
   "id_ciudad": 1,
   "tipo_institución": "IE",
+  "nombre": "Universidad de Los Andes",
   "estado": "activo",
   "tipo_suscripción": "Professional Edition",
   "FTES": 150,
@@ -24,7 +25,6 @@
     "123.251.15.75",
     "240.132.18.5"
   ],
-  "nombre": "Universidad de Los Andes",
   "estudiantes": 20000,
   "tipo": "privada",
   "tasa_empleabilidad": 0.4,
