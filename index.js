@@ -14,7 +14,7 @@ let callback = (err, data) => {
     i['teléfono'] = String(i['teléfono']);
   });
 
-  let fileContent = JSON.stringify(objs);
+  let fileContent = JSON.stringify(objs, null, 2);
   let filepath = "./datos/procesados/Lista_instituciones.json";
   let encoding = "utf8";
 
