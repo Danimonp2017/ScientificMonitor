@@ -3,19 +3,28 @@ const deExcel = require('excel-as-json').processFile,
 
 let opts = {
   omitEmptyFields: false
-},
-    callback = (err, data) => {
-      err ? err : null;
-    };
+};
+
+let callback = (err, data) => {
+  if (err) throw err;
+
+  let objs = require('./datos/procesados/Lista_instituciones.json');
+
+  objs.forEach((i) => {
+    i['teléfono'] = String(i['teléfono']);
+  });
+
+  let fileContent = JSON.stringify(objs);
+
+  let filepath = "./datos/procesados/Lista_instituciones.json";
+
+  fs.writeFile(filepath, fileContent, (err) => {
+    if (err) throw err;
+
+    console.log("File successfully saved!");
+  });
+};
 
 let targetFile = "./datos/procesados/Lista_instituciones.json";
 
-deExcel("./datos/test.xlsx", targetFile, opts, callback);
-
-let objs = require('./datos/procesados/Lista_instituciones.json');
-
-console.log(objs[0]);
-
-objs.forEach((i) => {
-  i['teléfono'] = String(i['teléfono']);
-})
+deExcel("./datos/Lista_instituciones.xlsx", targetFile, opts, callback);
