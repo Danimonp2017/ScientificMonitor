@@ -14,14 +14,22 @@ let callback = (err, data) => {
     i['teléfono'] = String(i['teléfono']);
   });
 
-  let fileContent = JSON.stringify(objs, null, 2);
-  let filepath = "./datos/procesados/Lista_instituciones.json";
+  let fileContent = JSON.stringify(objs, null, 2),
+      sample = JSON.stringify(objs.slice(0,20), null, 2);
+  let filepath = "./datos/procesados/";
+  let file = "Lista_instituciones.json",
+      sampleFile="sample.json";
   let encoding = "utf8";
 
-  fs.writeFile(filepath, fileContent, encoding, (err) => {
+  fs.writeFile(filepath + file, fileContent, encoding, (err) => {
     if (err) throw err;
 
     console.log("File successfully saved!");
+  });
+  fs.writeFile(filepath + sampleFile, sample, encoding, (err) => {
+    if (err) throw err;
+
+    console.log("Sample successfully saved!");
   });
 };
 

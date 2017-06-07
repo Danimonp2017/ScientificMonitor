@@ -1,0 +1,882 @@
+[
+  {
+    "id": "",
+    "país": "Colombia",
+    "id_país": "",
+    "ciudad": "Pereira",
+    "id_ciudad": "",
+    "tipo_institución": "Académico y Gobierno",
+    "nombre": "Institución Universitaria Comfamiliar Risaralda",
+    "URL": "http://uc.edu.co/",
+    "dirección": "Carrera 5 No. 21 - 30",
+    "teléfono": "57 (6) 3 17 24 00",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "Mexico",
+    "id_país": "",
+    "ciudad": "Ciudad de México",
+    "id_ciudad": "",
+    "tipo_institución": "Académico y Gobierno",
+    "nombre": "Universidad Tecnológica de México UNITEC Campus Marina",
+    "URL": "",
+    "dirección": "Marina Nacional No. 162 Col. Anáhuac",
+    "teléfono": "",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "Chile",
+    "id_país": "",
+    "ciudad": "San Joaquin",
+    "id_ciudad": "",
+    "tipo_institución": "Académico y Gobierno",
+    "nombre": "Corporación Santo Tomás",
+    "URL": "",
+    "dirección": "Av. Vicuña Mackenna No. 4835",
+    "teléfono": "54225105893",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "Mexico",
+    "id_país": "",
+    "ciudad": "Aguascalientes",
+    "id_ciudad": "",
+    "tipo_institución": "Académico y Gobierno",
+    "nombre": "Colegio Latinoamericano de Educación Avanzada - Universidad CLEA",
+    "URL": "https://clea.edu.mx/portal/",
+    "dirección": "Av. República del Salvador No. 1619 Fraccionamiento Valle Dorado.",
+    "teléfono": "",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "Mexico",
+    "id_país": "",
+    "ciudad": "Ciudad de México",
+    "id_ciudad": "",
+    "tipo_institución": "Académico y Gobierno",
+    "nombre": "Universidad de la Comunicacion",
+    "URL": "http://www.uc.edu.mx/",
+    "dirección": "Zacatecas 120 Col Roma",
+    "teléfono": "",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "Perù",
+    "id_país": "",
+    "ciudad": "Lima",
+    "id_ciudad": "",
+    "tipo_institución": "Corporativo",
+    "nombre": "SHERFARMA",
+    "URL": "http://www.sherfarma.com/",
+    "dirección": "Jr. Alfred Rosenblat N°145, Urb. Huertos de San Antonio, Surco.",
+    "teléfono": "344 4099",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "Ecuador",
+    "id_país": "",
+    "ciudad": "Quito",
+    "id_ciudad": "",
+    "tipo_institución": "Corporativo",
+    "nombre": "Chiriboga Business Management S.A",
+    "URL": "",
+    "dirección": "Muros n 27-95 y Av. 12 de Octubre, Edificio Centro de Negocios Newcorp, Piso 42, la Floresta",
+    "teléfono": "+593-2-601-8555",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "Colombia",
+    "id_país": "",
+    "ciudad": "Bogotá",
+    "id_ciudad": "",
+    "tipo_institución": "Corporativo",
+    "nombre": "Laboratorios Phitother E.U.",
+    "URL": "http://www.phitother.com/",
+    "dirección": "Carrera 53D #4A - 67",
+    "teléfono": "+57 (1) 406-9933-104",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "República Dominicana",
+    "id_país": "",
+    "ciudad": "Santo Domingo",
+    "id_ciudad": "",
+    "tipo_institución": "Académico y Gobierno",
+    "nombre": "Universidad Iberoamericana",
+    "URL": "http://www.unibe.edu.do/",
+    "dirección": "Av. Francia No. 129, Gazcue. Santo Domingo",
+    "teléfono": "(809) 6894111",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "Perù",
+    "id_país": "",
+    "ciudad": "Lima",
+    "id_ciudad": "",
+    "tipo_institución": "Corporativo",
+    "nombre": "Fondo Nacional De Desarrollo Pesquero",
+    "URL": "http://www.fondepes.gob.pe/",
+    "dirección": "Av. Petit Thouars N° 115 Lima",
+    "teléfono": "511 2097700",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "Colombia",
+    "id_país": "",
+    "ciudad": "Bogotá",
+    "id_ciudad": "",
+    "tipo_institución": "Corporativo",
+    "nombre": "ADELS S.A.S",
+    "URL": "www.adels.com.co",
+    "dirección": "Calle 72F No. 113A-85 Torre 2 Of. 303 Villas de Granada",
+    "teléfono": "(571) 7350192",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "Chile",
+    "id_país": "",
+    "ciudad": "Santiago",
+    "id_ciudad": "",
+    "tipo_institución": "Académico y Gobierno",
+    "nombre": "C. Estudios Estratégicos Academia Guerra CEEAG",
+    "URL": "http://www.ceeag.cl/",
+    "dirección": "Valenzuela Llanos Nº623 La Reina",
+    "teléfono": "(+56) 2 26683332",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "Perú",
+    "id_país": "",
+    "ciudad": "Lima",
+    "id_ciudad": "",
+    "tipo_institución": "Académico y Gobierno",
+    "nombre": "Instituto de Tecnología en Salud e Invertigación",
+    "URL": "http://www.essalud.gob.pe/ietsi/",
+    "dirección": "Av. Arenales 1402, Jesús María",
+    "teléfono": "(+51) 1 2656000",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "Costa Rica",
+    "id_país": "",
+    "ciudad": "La Uruca",
+    "id_ciudad": "",
+    "tipo_institución": "Académico y Gobierno",
+    "nombre": "Colegio de Enfermeras de Costa Rica",
+    "URL": "http://www.enfermeria.cr/",
+    "dirección": "De las Instalaciones de canal 6, 800 metros oeste edificio mano izquierda.",
+    "teléfono": "(506)2519-6800",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "México",
+    "id_país": "",
+    "ciudad": "Acapulco",
+    "id_ciudad": "",
+    "tipo_institución": "Académico y Gobierno",
+    "nombre": "Universidad Albert Einstein",
+    "URL": "http://uae.edu.mx/",
+    "dirección": "Corredor Monte Alto KM 23, Col. Isidro Fabela, Tlazala de Fabela, Edo. Méx. 54480",
+    "teléfono": "(55) 8996.9402",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "Perù",
+    "id_país": "",
+    "ciudad": "",
+    "id_ciudad": "",
+    "tipo_institución": "Académico y Gobierno",
+    "nombre": "Universidad Peruana Simón Bolívar- USB",
+    "URL": "http://www.usb.edu.pe/web2016/",
+    "dirección": "",
+    "teléfono": "",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "Mexico",
+    "id_país": "",
+    "ciudad": "Ciudad de México",
+    "id_ciudad": "",
+    "tipo_institución": "Académico y Gobierno",
+    "nombre": "Universidad del Claustro de Sor Juana",
+    "URL": "http://elclaustro.edu.mx/",
+    "dirección": "Izazaga 92, Colonia Centro Histórico",
+    "teléfono": "5130 33 00",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "Chile",
+    "id_país": "",
+    "ciudad": "Las Condes",
+    "id_ciudad": "",
+    "tipo_institución": "Corporativo",
+    "nombre": "Kinross Chile",
+    "URL": "http://www.kinrosschile.cl/",
+    "dirección": "Avda. Cerro colorado Nº 5240, Torre II",
+    "teléfono": "(+56) 2 26517900",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "Mexico",
+    "id_país": "",
+    "ciudad": "Ciudad de México",
+    "id_ciudad": "",
+    "tipo_institución": "Académico y Gobierno",
+    "nombre": "Seminario Conciliar de México",
+    "URL": "http://www.conciliar.mx/",
+    "dirección": "Guadalupe Victoria 133. Col. Tlalpan centro. Delegación tlalpan.",
+    "teléfono": "",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "México",
+    "id_país": "",
+    "ciudad": "Acapulco",
+    "id_ciudad": "",
+    "tipo_institución": "Académico y Gobierno",
+    "nombre": "Universidad de Hipòcrates",
+    "URL": "http://www.uhipocrates.edu.mx/",
+    "dirección": "Av. Andrés de Urdaneta No. 360 y M. López de Legazpi No. 22",
+    "teléfono": "(744) 485 7991",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  }
+]
