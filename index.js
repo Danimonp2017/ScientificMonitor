@@ -14,6 +14,12 @@ const files = [
     fileName: "consolidada",
     fileExtension: ".xlsx",
     targetDir: "./datos/Finales/Países/"
+  },
+  {
+    fileDir: "./datos/Stata/Finales/",
+    fileName: "ciudades",
+    fileExtension: ".xlsx",
+    targetDir: "./datos/Finales/Ciudades/"
   }
 ];
 
