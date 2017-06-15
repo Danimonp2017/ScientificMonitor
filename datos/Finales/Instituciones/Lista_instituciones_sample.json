@@ -1,0 +1,222 @@
+[
+  {
+    "id": "",
+    "país": "Colombia",
+    "id_país": "",
+    "ciudad": "Pereira",
+    "id_ciudad": "",
+    "tipo_institución": "Académico y Gobierno",
+    "nombre": "Institución Universitaria Comfamiliar Risaralda",
+    "URL": "http://uc.edu.co/",
+    "dirección": "Carrera 5 No. 21 - 30",
+    "teléfono": "57 (6) 3 17 24 00",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "Mexico",
+    "id_país": "",
+    "ciudad": "Ciudad de México",
+    "id_ciudad": "",
+    "tipo_institución": "Académico y Gobierno",
+    "nombre": "Universidad Tecnológica de México UNITEC Campus Marina",
+    "URL": "",
+    "dirección": "Marina Nacional No. 162 Col. Anáhuac",
+    "teléfono": "",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "Chile",
+    "id_país": "",
+    "ciudad": "San Joaquin",
+    "id_ciudad": "",
+    "tipo_institución": "Académico y Gobierno",
+    "nombre": "Corporación Santo Tomás",
+    "URL": "",
+    "dirección": "Av. Vicuña Mackenna No. 4835",
+    "teléfono": "54225105893",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "Mexico",
+    "id_país": "",
+    "ciudad": "Aguascalientes",
+    "id_ciudad": "",
+    "tipo_institución": "Académico y Gobierno",
+    "nombre": "Colegio Latinoamericano de Educación Avanzada - Universidad CLEA",
+    "URL": "https://clea.edu.mx/portal/",
+    "dirección": "Av. República del Salvador No. 1619 Fraccionamiento Valle Dorado.",
+    "teléfono": "",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "país": "Mexico",
+    "id_país": "",
+    "ciudad": "Ciudad de México",
+    "id_ciudad": "",
+    "tipo_institución": "Académico y Gobierno",
+    "nombre": "Universidad de la Comunicacion",
+    "URL": "http://www.uc.edu.mx/",
+    "dirección": "Zacatecas 120 Col Roma",
+    "teléfono": "",
+    "estado": "",
+    "tipo_suscripción": "",
+    "FTES": "",
+    "suscripción": {
+      "fecha_inicio": "",
+      "fecha_fin": ""
+    },
+    "logo": "",
+    "código_postal": "",
+    "dir_IPs": [
+      ""
+    ],
+    "estudiantes": "",
+    "tipo": "",
+    "tasa_empleabilidad": "",
+    "ISO_9001": "",
+    "patentes": {
+      "2016": "",
+      "2017": ""
+    },
+    "publicaciones": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ],
+    "autores": [
+      {
+        "2017": "",
+        "área": ""
+      }
+    ]
+  }
+]
