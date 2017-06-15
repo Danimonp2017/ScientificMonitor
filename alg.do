@@ -2,15 +2,17 @@ clear all
 
 // Datos coyunturales - extraer datos desde 1995*
 	// * Arbitrario
-
-// Argentina
-
+	
 local intermedias datos/Stata/Intermedias
 local finales			datos/Stata/Finales
 
+////////// Paises //////////
+
+/* 
+
 pause on
 set timeout1 10
-set timeout2 10
+set timeout2 10	
 
 global paises ARG BOL CHL COL CRI CUB ECU SLV GTM MEX PAN PRY PER PRI URY VEN /*Agregados: */ HIC LAC LCN LIC
 /*
@@ -60,6 +62,34 @@ gen id=""
 save `finales'/consolidada.dta, replace
 
 export excel using `finales'/consolidada.xlsx, replace first(var)
+
+*/
+////////// Ciudades //////////
+
+clear all
+
+import excel "C:\Users\Daniel Saavedra\Documents\Xcientia\SM\datos\Publiciencia\ciudades.xlsx", sheet("Sheet1") firstrow
+
+rename (pas id_pas) (pais id_pais)
+
+bysort ciudad: gen x = _n
+
+keep if x==1 & ciudad!=""
+
+drop x
+
+gen PIB__valores__2015 = .
+gen PIB__valores__2016 = .
+gen PIB__valores__2017 = .
+
+gen poblacion__2015 = .
+gen poblacion__2016 = .
+gen poblacion__2017 = .
+
+rename (ciudad id_ciudad) (nombre id)
+
+export excel using `finales'/ciudades.xlsx, replace first(var)
+
 
 /*
 
